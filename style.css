@@ -1,0 +1,11 @@
+body {
+  color: red;
+};
+
+p {
+  text-align: center;
+};
+
+#new {
+    word-wrap: break-word;
+};
